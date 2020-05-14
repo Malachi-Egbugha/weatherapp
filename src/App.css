@@ -1,0 +1,83 @@
+.App {
+  text-align: center;
+ 
+}
+.heading
+{
+  color: #FFF;
+  font-weight: 800;
+  font-size: 48px;
+  text-shadow:3px 3px rgba(50,50,70,0.5);
+  text-align: center;
+
+}
+.lead
+{
+  color: #000;
+  font-weight: 500;
+  font-size: 32px;
+  text-shadow:3px 3px rgba(50,50,70,0.5);
+  text-align: center;
+
+}
+body{
+  background: #000 url('./assets/back.jpg') no-repeat;
+  background-size: cover;
+
+}
+.btnstyle
+{
+  border-radius: 30px; 
+  font-size: .8rem; 
+  text-transform: uppercase;
+  letter-spacing: .2rem;
+  padding: 10px 20px;
+  text-decoration: none
+
+}
+.weather{
+  text-align: center;
+}
+.weatherhead
+{
+  color: #FFF;
+  font-weight: 300;
+  font-size: 20px;
+  text-shadow:2px 2px rgba(50,50,70,0.5);
+  text-align: center;
+  font-style: italic;
+}
+.weatherlocation
+{
+  color: #FFF;
+  font-weight: 500;
+  font-size: 32px;
+  text-shadow:3px 3px rgba(50,50,70,0.5);
+  text-align: center;
+}
+.weathertemp
+{
+  position: relative;
+  margin: 30px auto;
+  background-color: rgb(255, 255, 255, 0.2);
+  border-radius: 16px;
+  padding: 15px 25px;
+
+  color: #FFF;
+  font-weight: 900;
+  font-size: 102px;
+  text-align: center;
+  text-shadow:3px 6px rgba(50,50,70,0.5);
+  box-shadow: 3px 6px rgba(0,0,0,0.2);
+
+}
+.weatherhumidity
+{
+  color: #FFF;
+  font-weight: 700;
+  font-size: 48px;
+  text-shadow:3px 3px rgba(50,50,70,0.5);
+  text-align: center;
+
+}
+
